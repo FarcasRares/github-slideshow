@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi there!
+Welcome to my slideshow!
 Use the left arrow to go back!
+<Test message>
